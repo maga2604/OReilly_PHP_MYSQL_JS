@@ -2,4 +2,4 @@ To get files git fetch +  git pull
 
 git remote add origin https://github.com/maga2604/OReilly_PHP_MYSQL_JS.git
 
-git push --set-upstream origin main
+git push --set-upstream origin maindate
